@@ -43,18 +43,6 @@
 
 ---
 
-## 🧩 LeetCode Stats
-
-<p align="left">
-  <a href="https://leetcode.com/u/T_Srimathi/">
-    <img src="https://img.shields.io/badge/LeetCode-T__Srimathi-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</p>
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/T_Srimathi?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/T_Srimathi/)
-
----
-
 ## 🏅 LeetCode Badges
 
 <table align="center">
@@ -85,8 +73,5 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/srimathi-thiruvelmani-5a77b531b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:srimathi@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
