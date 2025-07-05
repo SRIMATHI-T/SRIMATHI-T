@@ -63,13 +63,15 @@
 ## 🏅 LeetCode Badges
 
 <p align="center">
-  <img src="https://your-link.com/200-days.png" alt="200 Days Badge" width="100"/>
-  <img src="https://your-link.com/100-days.png" alt="100 Days Badge" width="100"/>
-  <img src="https://your-link.com/50-days.png" alt="50 Days Badge" width="100"/>
-  <img src="https://your-link.com/active-50.png" alt="Active 50 Days Badge" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="100 Days" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50 Days" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100 Days" width="100"/>
+  <img src="http://assets.leetcode.com/static_assets/others/2550.gif" alt="50 Days" width="100"/>
 </p>
 
-<!-- Replace the badge URLs above with actual hosted image links -->
+<p align="center">
+  <sub>100 Days (2025-07-02) &nbsp;&nbsp;|&nbsp;&nbsp; 50 Days (2025-03-08) &nbsp;&nbsp;|&nbsp;&nbsp; 100 Days (2024-11-17) &nbsp;&nbsp;|&nbsp;&nbsp; 50 Days (2024-09-22)</sub>
+</p>
 
 ---
 
