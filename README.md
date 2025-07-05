@@ -33,14 +33,6 @@
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SRIMATHI-T&theme=tokyonight)
 
-
----
-
-## 📌 Top Contributed Repositories
-
-[![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=SRIMATHI-T&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/SRIMATHI-T)
-
-
 ---
 
 ## 🏅 LeetCode Badges
