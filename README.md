@@ -29,14 +29,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srimathi-dev&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srimathi-dev&layout=compact&theme=tokyonight" width="47%" />
-</p>
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SRIMATHI-T&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SRIMATHI-T&theme=tokyonight)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SRIMATHI-T&theme=tokyonight)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SRIMATHI-T&theme=tokyonight&utcOffset=5.5)
 
 ---
 
-## 🏅 LeetCode Badges
+## 🧩 LeetCode Stats
 
 <p align="left">
   <a href="https://leetcode.com/u/T_Srimathi/">
@@ -71,12 +74,15 @@
   </tr>
 </table>
 
-
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/srimathi-t" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:srimathi@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/srimathi-thiruvelmani-5a77b531b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:srimathi@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
