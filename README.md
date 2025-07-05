@@ -36,7 +36,13 @@
 
 ---
 
-## 🧩 LeetCode Stats
+## 🧩 LeetCode Stats & Badge
+
+<p align="left">
+  <a href="https://leetcode.com/u/T_Srimathi/">
+    <img src="https://img.shields.io/badge/LeetCode-T__Srimathi-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/T_Srimathi?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/T_Srimathi/)
 
