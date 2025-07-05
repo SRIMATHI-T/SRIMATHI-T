@@ -31,11 +31,15 @@
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SRIMATHI-T&theme=tokyonight)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SRIMATHI-T&theme=tokyonight)
-
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SRIMATHI-T&theme=tokyonight)
 
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SRIMATHI-T&theme=tokyonight&utcOffset=5.5)
+
+---
+
+## 📌 Top Contributed Repositories
+
+[![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=SRIMATHI-T&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/SRIMATHI-T)
+
 
 ---
 
