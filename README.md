@@ -36,15 +36,27 @@
 
 ---
 
-## 🧩 LeetCode Stats & Badge
+## 🏅 LeetCode Badges
 
-<p align="left">
-  <a href="https://leetcode.com/u/T_Srimathi/">
-    <img src="https://img.shields.io/badge/LeetCode-T__Srimathi-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="100 Days Badge" width="100"/><br/>
+  <sub>100 Days – Earned on 2025-07-02</sub>
 </p>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/T_Srimathi?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/T_Srimathi/)
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50 Days Badge" width="100"/><br/>
+  <sub>50 Days – Earned on 2025-03-08</sub>
+</p>
+
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100 Days Badge" width="100"/><br/>
+  <sub>100 Days – Earned on 2024-11-17</sub>
+</p>
+
+<p align="center">
+  <img src="http://assets.leetcode.com/static_assets/others/2550.gif" alt="50 Days Badge" width="100"/><br/>
+  <sub>50 Days – Earned on 2024-09-22</sub>
+</p>
 
 ---
 
