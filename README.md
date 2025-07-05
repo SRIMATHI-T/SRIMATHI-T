@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Srimathi</h1>
-<p align="center">A passionate Full Stack & Backend Developer</p>
+<p align="center">🚀 Passionate Developer | AI Enthusiast | Full-Stack Engineer</p>
 
 ---
 
@@ -45,6 +45,19 @@
 </p>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/T_Srimathi?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/T_Srimathi/)
+
+---
+
+## 🏅 LeetCode Badges
+
+<p align="center">
+  <img src="https://your-link.com/200-days.png" alt="200 Days Badge" width="100"/>
+  <img src="https://your-link.com/100-days.png" alt="100 Days Badge" width="100"/>
+  <img src="https://your-link.com/50-days.png" alt="50 Days Badge" width="100"/>
+  <img src="https://your-link.com/active-50.png" alt="Active 50 Days Badge" width="100"/>
+</p>
+
+<!-- Replace the badge URLs above with actual hosted image links -->
 
 ---
 
