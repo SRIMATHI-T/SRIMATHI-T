@@ -38,41 +38,38 @@
 
 ## 🏅 LeetCode Badges
 
-<p align="center">
-  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="100 Days Badge" width="100"/><br/>
-  <sub>100 Days – Earned on 2025-07-02</sub>
+<p align="left">
+  <a href="https://leetcode.com/u/T_Srimathi/">
+    <img src="https://img.shields.io/badge/LeetCode-T__Srimathi-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50 Days Badge" width="100"/><br/>
-  <sub>50 Days – Earned on 2025-03-08</sub>
-</p>
-
-<p align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100 Days Badge" width="100"/><br/>
-  <sub>100 Days – Earned on 2024-11-17</sub>
-</p>
-
-<p align="center">
-  <img src="http://assets.leetcode.com/static_assets/others/2550.gif" alt="50 Days Badge" width="100"/><br/>
-  <sub>50 Days – Earned on 2024-09-22</sub>
-</p>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/T_Srimathi?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/T_Srimathi/)
 
 ---
 
 ## 🏅 LeetCode Badges
 
-<p align="center">
-  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="100 Days" width="100"/>
-  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50 Days" width="100"/>
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100 Days" width="100"/>
-  <img src="http://assets.leetcode.com/static_assets/others/2550.gif" alt="50 Days" width="100"/>
-</p>
-
-<p align="center">
-  <sub>100 Days (2025-07-02) &nbsp;&nbsp;|&nbsp;&nbsp; 50 Days (2025-03-08) &nbsp;&nbsp;|&nbsp;&nbsp; 100 Days (2024-11-17) &nbsp;&nbsp;|&nbsp;&nbsp; 50 Days (2024-09-22)</sub>
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="100"/><br/>
+      <sub><strong>100 Days</strong><br/>Earned on 2025-07-02</sub>
+    </td>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="100"/><br/>
+      <sub><strong>50 Days</strong><br/>Earned on 2025-03-08</sub>
+    </td>
+    <td align="center">
+      <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="100"/><br/>
+      <sub><strong>100 Days</strong><br/>Earned on 2024-11-17</sub>
+    </td>
+    <td align="center">
+      <img src="http://assets.leetcode.com/static_assets/others/2550.gif" width="100"/><br/>
+      <sub><strong>50 Days</strong><br/>Earned on 2024-09-22</sub>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🌐 Connect with Me
