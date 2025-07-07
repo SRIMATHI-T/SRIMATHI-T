@@ -66,7 +66,7 @@
       <sub><strong>100 Days</strong><br/>Earned on 2024-11-17</sub>
     </td>
     <td align="center">
-      <img src="http://assets.leetcode.com/static_assets/others/2550.gif" width="100"/><br/>
+      <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="100"/><br/>
       <sub><strong>50 Days</strong><br/>Earned on 2024-09-22</sub>
     </td>
   </tr>
