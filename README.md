@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Srimathi T</h1>
-<p align="center">🚀 Passionate Developer | AI Enthusiast | Full-Stack Engineer</p>
+<h5 align="center">🚀 Passionate Developer | AI Enthusiast | Full-Stack Engineer</h5>
 
 ---
 
@@ -9,6 +9,22 @@
 - 🌱 Exploring the depths of backend systems and real-world AI applications  
 - 💡 I enjoy turning ideas into impactful tech with clean code and thoughtful design  
 - 🗣️ Have shared my work and ideas through presentations at college events  
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/srimathi-thiruvelmani-5a77b531b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:srimathithiruvelmani@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/Srimathi_T/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
@@ -81,3 +97,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+---
+
+> “When you want something, all the universe conspires in helping you to achieve it.🦋”  
+
+---
+## 🔍 Profile Views  
+![Visitor Count](https://komarev.com/ghpvc/?username=SRIMATHI-T&color=blue)
+
+---
+
+
+
