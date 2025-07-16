@@ -90,15 +90,6 @@
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/srimathi-thiruvelmani-5a77b531b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
 
 > “When you want something, all the universe conspires in helping you to achieve it.🦋”  
 
