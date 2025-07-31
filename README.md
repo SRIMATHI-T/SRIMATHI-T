@@ -1,5 +1,5 @@
 ![Intro](Hello.gif)
-<h5 align="center">🚀 Passionate Developer | AI Enthusiast | Full-Stack Engineer</h5>
+<h2 align="center">🚀 Passionate Developer | AI Enthusiast | Full-Stack Engineer</h2>
 
 ---
 
