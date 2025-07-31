@@ -1,3 +1,4 @@
+![Intro](Hello 👋, I'm Srimathi T.gif)
 <h1 align="center">Hello 👋, I'm Srimathi T</h1>
 <h5 align="center">🚀 Passionate Developer | AI Enthusiast | Full-Stack Engineer</h5>
 
