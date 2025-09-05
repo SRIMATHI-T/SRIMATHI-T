@@ -1,4 +1,4 @@
-![Intro](Hello 👋, I'm Srimathi T.gif)
+![Intro](Hello.gif)
 <h2 align="center">🚀 Passionate Developer | AI Enthusiast | Full-Stack Engineer</h2>
 
 ---
